@@ -4,4 +4,9 @@
 ![alleycat logo](https://raw.github.com/ocramz/alleycat/master/doc/logo-3.png?raw=true)
 </div>
 
+
+<div><img src="https://raw.github.com/ocramz/alleycat/master/doc/logo-3.png" width="600" /></div>
+
+
+
 `alleycat` is an experimental benchmarking framework for Haskell libraries.
